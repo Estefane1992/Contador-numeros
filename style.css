@@ -1,0 +1,30 @@
+body {
+    background-color: azure;
+    font: normal 15pt Arial;
+}
+header {
+    color: black;
+    text-align: center;
+}
+section {
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    margin-top: 50px;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+    margin-top: 500px;
+}
+#botao {
+    background-color: rgba(169, 169, 169, 0.446);
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
